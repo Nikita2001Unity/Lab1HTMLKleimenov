@@ -1,0 +1,93 @@
+body{
+  background-color: bisque;
+   
+}
+.formula{
+   background-color: springgreen;
+}
+.tableFormula{
+    border: 4px solid tomato;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.nameOfformula{
+    background-color:yellow;
+}
+.header{
+     display: flex;
+     
+     padding: 10px;
+     background-color: black;
+     color: white;
+}
+
+.studentSelect{
+    border: 4px solid tomato;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.name{
+  padding: 10px;
+  font-style: unset;
+  background-color: yellow;
+}
+.styleselect{
+    padding: 10px;
+    background-color:springgreen;
+}
+.opt1{
+    background-color: teal;
+}
+.opt2{
+    background-color: thistle;
+}
+.opt3{
+    background-color: violet;
+}
+.opt4{
+    background-color: yellow;
+}
+.list{
+    border: 4px solid tomato;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.num{
+    background-color: springgreen;
+    padding: 10px;
+}
+.word{
+    background-color: yellow;
+    padding: 10px;
+}
+table{
+    width: 50%;
+}
+.nameList{
+    background-color: springgreen;
+    padding: 10px;
+}
+.inputs{
+    width: 50%;
+    border: 4px solid tomato;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+}
+.inpFir{
+    background-color: springgreen;
+}
+.inpSec{
+    background-color: yellow;
+}
+.inpThr{
+    background-color: springgreen;
+}
